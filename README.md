@@ -29,6 +29,8 @@ This system allows:
 - **Clean Architecture:** Entity → Repository → Service → Controller structure
 - **RESTful APIs:** Designed using HTTP best practices
 - **Database Integration:** MySQL + JPA/Hibernate for persistent data
+- **API Documentation:** Integrated Swagger UI for real-time API testing and documentation
+- **API Testing:** All endpoints tested using Postman.
 
 ---
 
@@ -55,6 +57,7 @@ This system allows:
 | MySQL           | Relational database                   |
 | Maven           | Dependency and build management       |
 | Postman         | API testing and validation            |
-
+| Swagger         | Real-time API testing & documentation |
+ 
 ---
 
